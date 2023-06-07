@@ -4,7 +4,7 @@
 }
 
 .info--wrapper {
-  background-color: #1A1B21;
+  background-color: var(--main-bg-color);
   padding: 2.1rem 3.5rem 3.3rem 3.5rem;
 }
 

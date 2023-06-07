@@ -9,6 +9,10 @@
   box-sizing: inherit;
 }
 
+p {
+  margin: 0;
+}
+
 button {
   background: none;
   border: none;
