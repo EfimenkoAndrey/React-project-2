@@ -24,6 +24,7 @@ export default function Info() {
         </a>
         <div className='button-box'>
           <a
+          target='blank'
           href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'
           className='info--btn'
           >
@@ -35,7 +36,8 @@ export default function Info() {
             Email
           </a>
           <a
-          href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'
+          target='blank'
+          href='https://www.linkedin.com/in/andrew-efimenko-86936b215/'
           className='info--btn info--btn_bg'
           >
             <img
